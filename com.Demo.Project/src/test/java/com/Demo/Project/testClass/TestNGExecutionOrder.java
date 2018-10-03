@@ -12,7 +12,7 @@ import org.testng.annotations.AfterSuite;
 
 public class TestNGExecutionOrder {
 	@Test
-	public void f() {
+	public void show() {
 		
 		System.out.println(" @Test This Method 5th ");
 	}
