@@ -23,6 +23,12 @@ public class TestNGExecutionOrder {
 		
 		System.out.println("Hello Jenkins");
 	}
+	
+	@Test
+	public void hello() {
+		
+		System.out.println("Hello Git");
+	}
 
 	@BeforeMethod
 	public void beforeMethod() {

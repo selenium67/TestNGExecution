@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+      <class name="com.Demo.Project.testClass.TestNGExecutionOrder">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="beforeSuite" is-config="true" duration-ms="18" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="show()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="show" duration-ms="9" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Demo.Project.testClass.TestNGExecutionOrder@47c62251]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-10-04T04:05:53Z" finished-at="2018-10-04T04:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Demo.Project.testClass.TestNGExecutionOrder -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
