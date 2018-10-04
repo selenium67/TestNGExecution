@@ -11,10 +11,17 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
 public class TestNGExecutionOrder {
+	
 	@Test
 	public void show() {
 		
 		System.out.println(" @Test This Method 5th ");
+	}
+	
+	@Test
+	public void gererate() {
+		
+		System.out.println("Hello Jenkins");
 	}
 
 	@BeforeMethod
