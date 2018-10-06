@@ -27,8 +27,10 @@ public class TestNGExecutionOrder {
 	@Test
 	public void hello() {
 		
-		System.out.println("Hello Git");
+		System.out.println("Hola Git");
 	}
+	
+	
 
 	@BeforeMethod
 	public void beforeMethod() {
