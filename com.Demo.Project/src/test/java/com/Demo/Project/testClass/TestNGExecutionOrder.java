@@ -27,7 +27,7 @@ public class TestNGExecutionOrder {
 	@Test
 	public void hello() {
 		
-		System.out.println("Hola Git");
+		System.out.println("Hola.......... Git");
 	}
 	
 	
